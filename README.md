@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @JBerrios08
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-JBerrios08/JBerrios08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋🏼 ¡Hola, soy @JBerrios08!
+- 🎬 Me apasionan las películas sobre viajes en el tiempo y las de Marvel.
+- 🦇 También me encanta el universo de Batman y todo lo relacionado.
+- 💻 Actualmente estoy explorando el desarrollo web y sumergiéndome en el mundo de la impresión 3D.
+- 🤝🏼 Estoy dispuesto a colaborar en proyectos de código abierto relacionados con el desarrollo web.
+- 🌟 Disfruto descubriendo nuevas tecnologías y aprendiendo constantemente.
+- 🔭 ¡Buscando nuevas formas de innovar y crear impacto en el mundo tecnológico!
+- ⚡ Dato curioso: ¡He visto todas las películas del Universo Cinematográfico de Marvel más de una vez!
