@@ -1,4 +1,4 @@
-- 👋🏼 ¡Hola, soy @JBerrios08!
+- 👋🏼 ¡Hola, soy Jaime Berrios!
 - 🎬 Me apasionan las películas sobre viajes en el tiempo y las de Marvel.
 - 🦇 También me encanta el universo de Batman y todo lo relacionado.
 - 💻 Actualmente estoy explorando el desarrollo web y sumergiéndome en el mundo de la impresión 3D.
