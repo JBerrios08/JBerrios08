@@ -10,7 +10,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy un estudiante de **Ingeniería en Sistemas y Computación**.
+Apasionado por la tecnología, el desarrollo web y la innovación digital.
 
 - 🔭 Trabajo como **Trafficker Digital** en El Salvador.
 - 🌱 Actualmente estoy aprendiendo **Python**, **PHP**, y **JavaScript**.
