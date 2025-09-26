@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color:white">👋 ¡Hola! Bienvenido a mi perfil</h1>
+  <h1 style="color:white">👋 ¡Hola! Soy Jaime Fernando</h1>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNkeG43anY4YThyd2NkNzVnYmh0dWJvOHA4bWE1aG5rcmwzeWhhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JyxdzuAaxZnPH7TyRd/giphy.webp" width="600" height="300"/>
 </div>
 
@@ -7,17 +7,17 @@
 
 ### 🧑‍💻 Sobre mí
 
-Apasionado por la tecnología, el desarrollo web y la innovación digital.
+Soy estudiante de **Ingeniería en Sistemas y Computación**, con un perfil **multidisciplinario** que conecta el **marketing digital**, el **desarrollo web** y la **innovación tecnológica**.  
 
-- 🔭 Trabajo como **Trafficker Digital** en El Salvador.  
-- 🌱 Aprendiendo **Python**, **PHP**, y **JavaScript**.  
-- 👨‍🏫 He guiado a tres líderes en su crecimiento profesional.  
-- 📫 Contáctame en [LinkedIn](https://www.linkedin.com/in/jberrios08)  
-- 🎬 Fan de las películas de viajes en el tiempo y el universo **Marvel**.  
-- 🦇 Admirador del universo **Batman**.  
-- 💻 Explorando el mundo de la **impresión 3D** y el **desarrollo web**.  
-- 🤝 Abierto a colaborar en proyectos de **código abierto**.  
-- ⚡ Dato curioso: ¡He visto todas las películas del **MCU** más de una vez!
+- 💼 Experiencia como **Trafficker Digital** gestionando campañas en Meta Ads y Google Ads.  
+- 🚀 Fundador de **JaiFer Corp.**, soluciones digitales y físicas (branding, desarrollo web, publicidad y estructuras metálicas).  
+- 🤝 He acompañado a líderes en su crecimiento profesional, uniendo estrategia, creatividad y tecnología.  
+- 💻 Desarrollo proyectos en **automatización, APIs de Meta, impresión 3D y web apps**.  
+- 🌱 Curioso por aprender de todo: desde **física aplicada** hasta **packaging creativo**.  
+- 🎬 Fan del universo **Marvel**, los viajes en el tiempo y también del mundo **Batman**.  
+- 🔭 Siempre buscando **crear impacto con la tecnología**.  
+
+📫 Contáctame en [LinkedIn](https://www.linkedin.com/in/jberrios08)  
 
 ---
 
@@ -52,7 +52,7 @@ Apasionado por la tecnología, el desarrollo web y la innovación digital.
 
 ### 📘 Aprendizaje Continuo
 
-Estoy constantemente explorando nuevas tecnologías. Estas son algunas áreas en las que estoy profundizando:
+Siempre estoy explorando nuevas tecnologías. Estas son algunas áreas en las que estoy profundizando:
 
 - 🤖 **Machine Learning** e 🧠 **Inteligencia Artificial**
 - 🔌 **Arduino** y electrónica básica
@@ -72,5 +72,5 @@ Estoy constantemente explorando nuevas tecnologías. Estas son algunas áreas en
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222,100:000&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A41,100:000&height=100&section=footer"/>
 </div>
