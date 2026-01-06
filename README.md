@@ -1,5 +1,15 @@
 <div align="center">
   <h1 style="color:white">👋 ¡Hola! Soy Jaime Fernando</h1>
+
+  <!-- Committers.top badge -->
+  <a href="https://user-badge.committers.top/el_salvador_public/JBerrios08">
+    <img src="https://user-badge.committers.top/el_salvador_public/JBerrios08.svg" alt="committers.top badge"/>
+  </a>
+
+  <p align="center">
+    🇸🇻 GitHub Contributor Ranking – El Salvador
+  </p>
+
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNkeG43anY4YThyd2NkNzVnYmh0dWJvOHA4bWE1aG5rcmwzeWhhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JyxdzuAaxZnPH7TyRd/giphy.webp" width="600" height="300"/>
 </div>
 
@@ -17,7 +27,7 @@ Soy estudiante de **Ingeniería en Sistemas y Computación**, con un perfil **mu
 - 🎬 Fan del universo **Marvel**, los viajes en el tiempo y también del mundo **Batman**.  
 - 🔭 Siempre buscando **crear impacto con la tecnología**.  
 
-📫 Contáctame en [LinkedIn](https://www.linkedin.com/in/jberrios08)  
+📫 Contáctame en [LinkedIn](https://www.linkedin.com/in/jberrios08)
 
 ---
 
