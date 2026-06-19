@@ -7,8 +7,8 @@
     <em>Marketing digital · Desarrollo web · Innovación tecnológica</em>
   </p>
 
-  <a href="https://user-badge.committers.top/el_salvador_public/JBerrios08" target="_blank" rel="noopener noreferrer">
-    <img src="https://user-badge.committers.top/el_salvador_public/JBerrios08.svg" alt="committers.top badge" />
+  <a href="https://user-badge.committers.top/el_salvador_public/JaimeBerrios" target="_blank" rel="noopener noreferrer">
+    <img src="https://user-badge.committers.top/el_salvador_public/JaimeBerrios.svg" alt="committers.top badge" />
   </a>
 
   <br><br>
@@ -23,11 +23,11 @@
   <br><br>
 
   <p>
-    <a href="https://www.linkedin.com/in/jberrios08" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-Jaime%20Fernando-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="https://www.linkedin.com/in/jaimeberrios08/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-Jaime%20Berrios-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://github.com/JBerrios08" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/GitHub-JBerrios08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <a href="https://github.com/JaimeBerrios" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/GitHub-JaimeBerrios-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
   </p>
 
@@ -42,11 +42,6 @@ Soy estudiante de **Ingeniería en Sistemas y Computación**, con un perfil **mu
 ✨ Me gusta combinar estrategia, creatividad y tecnología para construir soluciones con impacto real.
 
 - 💼 Experiencia como **Trafficker Digital** gestionando campañas en **Meta Ads** y **Google Ads**.
-- 🚀 Fundador de **JaiFer Corp.**, enfocado en soluciones digitales y físicas:
-  - branding
-  - desarrollo web
-  - publicidad
-  - estructuras metálicas
 - 🤝 He acompañado a líderes en su crecimiento profesional, integrando visión estratégica y ejecución tecnológica.
 - 💻 Desarrollo proyectos en **automatización**, **APIs de Meta**, **impresión 3D** y **web apps**.
 - 🌱 Curioso por aprender de todo: desde **física aplicada** hasta **packaging creativo**.
@@ -55,12 +50,29 @@ Soy estudiante de **Ingeniería en Sistemas y Computación**, con un perfil **mu
 
 ---
 
+## 🎓 Proyectos académicos y áreas de estudio
+
+Durante mi formación universitaria he trabajado en proyectos que integran programación, análisis de datos, marketing, diseño y tecnología aplicada.
+
+### 📌 Áreas que he desarrollado
+
+- 🧠 **Minería de datos y análisis predictivo**, trabajando con modelos para estimar variables como precios y comportamiento de datos.
+- 💻 **Desarrollo web**, creando proyectos con **PHP, MySQL, HTML, Bootstrap y JavaScript**.
+- 🗳️ **Sistemas web funcionales**, como plataformas de votación estudiantil con gestión de usuarios, candidatos, imágenes y resultados.
+- 📱 **Desarrollo móvil**, explorando proyectos en Android Studio con múltiples pantallas, lógica de navegación y estructuras de datos.
+- 📣 **Community Management y marketing digital**, estudiando gestión de comunidades, contenido Hero/Help/Hub/Evergreen, manejo de crisis y estrategias de comunicación.
+- 🎨 **Branding e identidad visual**, desarrollando conceptos de marca, contenido para redes y propuestas visuales con enfoque estratégico.
+- 📊 **Comunicaciones Integradas al Marketing**, conectando diagnóstico de mercado, medios digitales, medios tradicionales y planificación de campañas.
+- 🔌 **Electrónica y física aplicada**, explorando fundamentos técnicos para proyectos con circuitos, Arduino y automatización.
+
+---
+
 ## 🌐 Conecta conmigo
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/jberrios08" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/jaimeberrios08/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
 </div>
@@ -118,6 +130,8 @@ Actualmente me interesa seguir creciendo en áreas como:
 - Proyectos de hardware con Arduino
 - Inteligencia artificial aplicada
 - Emprendimiento tecnológico
+- Marketing digital orientado a datos
+- Soluciones tecnológicas para negocios y marcas
 
 ---
 
